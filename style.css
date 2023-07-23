@@ -1,0 +1,619 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow-x: hidden;
+}
+.header {
+  border: none;
+  background: #636c79;
+  width: 1510px;
+  height: 650px;
+  font-size: 16px;
+  color: white;
+  text-align: -webkit-auto;
+}
+.logo {
+  margin: 30px 40px;
+  width: 10%;
+  height: auto;
+}
+.nav-items {
+  list-style: none;
+  color: #7c7b7b;
+  font-size: 28px;
+  color: white;
+  position: absolute;
+  top: 28px;
+  left: 600px;
+}
+.nav-item {
+  display: inline-block;
+  margin: 0 10px;
+  font-weight: 100;
+}
+.talk-btn {
+  position: absolute;
+  top: 28px;
+  left: 1250px;
+  background: transparent;
+  border-color: #cecece;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+}
+.head-img {
+  position: absolute;
+  top: 120px;
+  left: 200px;
+  width: 26%;
+  height: auto;
+}
+.header1 {
+  position: absolute;
+  top: 150px;
+  left: 700px;
+  font-size: 58px;
+}
+.par {
+  position: absolute;
+  top: 380px;
+  left: 700px;
+  font-size: 20px;
+  color: #c5c5c5;
+}
+input {
+  position: absolute;
+  top: 500px;
+  left: 700px;
+  width: 450px;
+  height: 55px;
+  font-size: 16px;
+}
+.talk {
+  position: absolute;
+  top: 505px;
+  left: 995px;
+  background: #8bb7a2;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+}
+/* header section done */
+h2 {
+  position: absolute;
+  top: 720px;
+  left: 400px;
+  font-size: 48px;
+  text-align: center;
+}
+.num {
+  position: absolute;
+  top: 880px;
+  left: 200px;
+  font-size: 20px;
+}
+.numbers {
+  display: inline-block;
+  margin: 0 80px;
+}
+.pro {
+  position: absolute;
+  top: 940px;
+  left: 230px;
+  font-size: 23px;
+}
+.project {
+  display: inline-block;
+  margin: 0 40px;
+}
+.img {
+  position: absolute;
+  top: 1040px;
+  left: 280px;
+}
+/*  target section done  */
+h3 {
+  position: absolute;
+  top: 1560px;
+  left: 530px;
+  font-size: 40px;
+  text-align: center;
+}
+.hd {
+  margin: 1140px 130px;
+  font-size: 46px;
+}
+.p {
+  position: absolute;
+  top: 1900px;
+  left: 630px;
+  margin: 20px -500px;
+}
+.btn-content {
+  position: absolute;
+  top: 2010px;
+  left: 130px;
+  background: #8bb7a2;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+}
+.image-web {
+  position: absolute;
+  top: 1730px;
+  left: 830px;
+}
+.h1 {
+  position: relative;
+  left: 800px;
+  top: -800px;
+  font-size: 46px;
+}
+.p1 {
+  position: relative;
+  top: -770px;
+  left: 805px;
+}
+.image-digital {
+  position: relative;
+  top: -1050px;
+  left: -30px;
+  width: 33%;
+}
+.btn-content1 {
+  position: relative;
+  top: -1180px;
+  left: 805px;
+  background: #8bb7a2;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+}
+.image-judge {
+  position: relative;
+  top: -1150px;
+  left: 650px;
+  width: 33%;
+}
+.hd1 {
+  position: relative;
+  left: 120px;
+  top: -900px;
+  font-size: 46px;
+}
+.p2 {
+  position: relative;
+  left: 120px;
+  top: -870px;
+}
+.btn-content2 {
+  position: relative;
+  left: 120px;
+  top: -1270px;
+  background: #8bb7a2;
+  border: none;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 16px;
+}
+/*     different option section done */
+.teams {
+  position: relative;
+  left: 110px;
+  top: -1050px;
+  font-size: 52px;
+}
+.par1 {
+  position: relative;
+  left: 700px;
+  top: -1170px;
+  font-size: 24px;
+  color: grey;
+  margin: 11px 0px;
+}
+.card-1 {
+  position: relative;
+  left: 130px;
+  top: -1070px;
+}
+.card-2 {
+  position: relative;
+  left: 510px;
+  top: -1580px;
+}
+.card-3 {
+  position: relative;
+  left: 890px;
+  top: -2090px;
+}
+h4 {
+  font-size: 26px;
+  margin: 10px 0px;
+}
+.pr {
+  font-size: 17px;
+  margin: 10px 0px;
+}
+.img2 {
+  width: 22%;
+  height: auto;
+}
+.last-btn {
+  position: relative;
+  left: 580px;
+  top: -2020px;
+  background: #8bb7a2;
+  border: none;
+  color: white;
+  width: 180px;
+  height: 50px;
+  font-size: 16px;
+}
+/* creative teams section done */
+.footer {
+  position: relative;
+  left: 0px;
+  top: -1920px;
+  background: #10181d;
+  border-color: #82d5fa;
+  color: #82d5fa;
+  width: 1516px;
+  height: 570px;
+  font-size: 20px;
+}
+.logo1 {
+  position: relative;
+  left: 150px;
+  top: 40px;
+  width: 11%;
+  height: auto;
+}
+.icons {
+  position: relative;
+  left: 1050px;
+  top: -10px;
+  width: 43px;
+  height: 35px;
+  background-color: #ffffff1a;
+  border-radius: 1rem;
+  border-color: #ffffff14;
+  color: white;
+  text-shadow: 2px 2px #000;
+}
+.icon {
+  width: 67%;
+  heigth: auto;
+}
+.line-y {
+  position: relative;
+  left: -300px;
+  top: 140px;
+  border-bottom: 4px solid #fff;
+  display: block;
+  margin: -200px 430px;
+  width: 1240px;
+  height: 100px;
+}
+.list1 {
+  position: relative;
+  left: 150px;
+  top: 400px;
+}
+.list2 {
+  position: relative;
+  left: 380px;
+  top: 240px;
+}
+.list3 {
+  position: relative;
+  left: 650px;
+  top: 75px;
+}
+.list4 {
+  position: relative;
+  left: 900px;
+  top: -90px;
+}
+.list5 {
+  position: relative;
+  left: 1170px;
+  top: -250px;
+}
+.main {
+  font-size: 27px;
+  color: white;
+}
+.nav {
+  font-size: 19px;
+  color: #b4b4b4;
+  margin: 10px 0px;
+}
+@media screen and (min-width: 626px) and (max-width: 803px) {
+  .header {
+    height: 580px;
+  }
+  .logo {
+    margin: 30px 10px;
+    width: 8%;
+    height: auto;
+  }
+  .nav-items {
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 38px;
+    left: 550px;
+    margin: 0px -400px;
+  }
+  .nav-item {
+    margin: 0 6px;
+  }
+  .talk-btn {
+    position: absolute;
+    top: 38px;
+    left: 550px;
+    width: 110px;
+    height: 30px;
+    font-size: 13px;
+  }
+  .head-img {
+    position: absolute;
+    top: 170px;
+    left: 50px;
+    width: 300px;
+    height: auto;
+  }
+  .header1 {
+    position: absolute;
+    top: 190px;
+    left: 680px;
+    margin: 0px -300px;
+    font-size: 37px;
+  }
+  .par {
+    position: absolute;
+    top: 350px;
+    left: 380px;
+    font-size: 13px;
+  }
+  input {
+    position: absolute;
+    top: 450px;
+    left: 380px;
+    width: 280px;
+    height: 35px;
+    font-size: 12px;
+  }
+  .talk {
+    position: absolute;
+    top: 455px;
+    left: 558px;
+    width: 100px;
+    height: 30px;
+    font-size: 13px;
+  }
+  /* header section done */
+  h2 {
+    position: absolute;
+    top: 620px;
+    left: 100px;
+    font-size: 38px;
+  }
+  .num {
+    position: absolute;
+    top: 780px;
+    left: 100px;
+    font-size: 16px;
+    margin: 0px -100px;
+  }
+  .numbers {
+    margin: 0 50px;
+  }
+  .pro {
+    position: absolute;
+    top: 840px;
+    left: 130px;
+    font-size: 17px;
+    margin: 0px -100px;
+  }
+  .project {
+    margin: 0 20px;
+  }
+  .img {
+    position: absolute;
+    top: 940px;
+    left: 40px;
+    width: 620px;
+  }
+  /*  target section done  */
+  h3 {
+    position: absolute;
+    top: 1340px;
+    left: 170px;
+  }
+  .hd {
+    margin: 970px 10px;
+    font-size: 33px;
+  }
+  .p {
+    position: absolute;
+    top: 1630px;
+    left: 10px;
+    margin: 20px 0px;
+  }
+  .btn-content {
+    position: absolute;
+    top: 1750px;
+    left: 10px;
+  }
+  .image-web {
+    position: absolute;
+    top: 1530px;
+    left: 370px;
+    width: 300px;
+  }
+  .h1 {
+    position: relative;
+    left: 320px;
+    top: -660px;
+    font-size: 33px;
+  }
+  .p1 {
+    position: relative;
+    top: -650px;
+    left: 320px;
+  }
+  .image-digital {
+    position: relative;
+    top: -850px;
+    left: -150px;
+    width: 300px;
+  }
+  .btn-content1 {
+    position: relative;
+    top: -880px;
+    left: 320px;
+  }
+  .image-judge {
+    position: relative;
+    top: -960px;
+    left: 230px;
+    width: 300px;
+  }
+  .hd1 {
+    position: relative;
+    left: 20px;
+    top: -810px;
+    font-size: 32px;
+  }
+  .p2 {
+    position: relative;
+    left: 20px;
+    top: -790px;
+  }
+  .btn-content2 {
+    position: relative;
+    left: 20px;
+    top: -1020px;
+  }
+  /*     different option section done */
+  .teams {
+    position: relative;
+    left: 20px;
+    top: -900px;
+    font-size: 45px;
+  }
+  .par1 {
+    position: relative;
+    left: 340px;
+    top: -1000px;
+    font-size: 15px;
+  }
+  .card-1 {
+    position: relative;
+    left: 70px;
+    top: -930px;
+  }
+  .card-2 {
+    position: relative;
+    left: 400px;
+    top: -1270px;
+  }
+  .card-3 {
+    position: relative;
+    left: 250px;
+    top: -1230px;
+  }
+  h4 {
+    font-size: 24px;
+  }
+  .pr {
+    font-size: 14px;
+  }
+  .img2 {
+    width: 200px;
+    height: auto;
+  }
+  .last-btn {
+    position: relative;
+    left: 270px;
+    top: -1180px;
+    background: #8bb7a2;
+    border: none;
+    color: white;
+    width: 180px;
+    height: 50px;
+    font-size: 16px;
+  }
+  /* creative teams section done */
+  .footer {
+    position: relative;
+    left: 0px;
+    top: -1050px;
+    height: 370px;
+  }
+  .logo1 {
+    position: relative;
+    left: 50px;
+    top: 40px;
+    width: 9%;
+  }
+  .icons {
+    position: relative;
+    left: 410px;
+    top: -10px;
+  }
+  .icon {
+    width: 29px;
+  }
+  .line-y {
+    position: relative;
+    left: -400px;
+    top: 140px;
+    width: 630px;
+  }
+  .list1 {
+    position: relative;
+    left: 20px;
+    top: 400px;
+  }
+  .list2 {
+    position: relative;
+    left: 150px;
+    top: 264px;
+  }
+  .list3 {
+    position: relative;
+    left: 300px;
+    top: 125px;
+  }
+  .list4 {
+    position: relative;
+    left: 420px;
+    top: -10px;
+  }
+  .list5 {
+    position: relative;
+    left: 520px;
+    top: -150px;
+  }
+  .main {
+    font-size: 19px;
+    color: white;
+  }
+  .nav {
+    font-size: 14px;
+    color: #b4b4b4;
+    margin: 10px 0px;
+  }
+}
